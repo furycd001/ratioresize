@@ -1,6 +1,6 @@
 # ratioresize
 
-This Bash script resizes images in the current directory while maintaining their aspect ratio.
+A simple bash script to resize images while maintaining their aspect ratio.
 ## Installation
 
 You can use the script in one of two ways:
